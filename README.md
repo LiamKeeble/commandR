@@ -13,7 +13,8 @@ Simply run the R script and add an argument specifying the model formula, the da
 
 For example:
 
-'./rcli.R y~x data.csv poisson'
+
+`./mycli.R y~x data.csv poisson`
 
 
 
